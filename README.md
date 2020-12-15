@@ -4,7 +4,7 @@
 
 ### Streaks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)](https://github.com/TheFruxz/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/TheFruxz/github-readme-streak-stats)
 
 ### Languages:
 
