@@ -1,0 +1,1 @@
+This directory is for GitHub-Use (images used in PRs, issues, etc.)
