@@ -1,2 +1,1 @@
-![I'm TheFruxz; "Develop Everyday"](https://raw.githubusercontent.com/TheFruxz/TheFruxz/master/assets/img/Front-Banner.jpg)
-![Software](https://user-images.githubusercontent.com/28064149/167266387-af2dfbc8-d170-41ec-983c-c255d820d1b3.png)
+![It's me! TheFruxz](https://user-images.githubusercontent.com/28064149/192865030-1535023f-7886-4526-a576-e17c9bc7cc8d.jpg)
