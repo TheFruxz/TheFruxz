@@ -1,1 +1,1 @@
-![It's me! TheFruxz](https://user-images.githubusercontent.com/28064149/192865030-1535023f-7886-4526-a576-e17c9bc7cc8d.jpg)
+![It's me! TheFruxz](https://user-images.githubusercontent.com/28064149/198843521-0e1b1db3-094b-4564-b3e6-c685a260345d.jpg)
